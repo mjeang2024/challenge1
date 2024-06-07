@@ -1,0 +1,53 @@
+body{
+    background-color: blue;
+    margin: auto;
+    width: 35%;
+    padding: 15%;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    background-color: black;
+    border-radius: 250px;
+    margin-right: 5px;
+    
+}
+h1{
+    vertical-align: middle;
+    color: white;
+}
+div{
+    display: inline-block;
+}
+button{
+    width: 150px;
+    height: 35px;
+    background-color: red;
+    border: 0;
+    color: white;
+    border-radius: 5px;
+    
+}
+.message{    
+    color: white;
+    width: 200px;
+    text-align: justify;
+    font-size: large;
+}
+.bot-logo{
+  vertical-align: text-bottom;
+  margin: 0px;
+  color: white;
+}
+
+div.logo{
+ vertical-align: top;
+ display: inline-block;
+ text-align: center;
+ margin-top: 50px;
+}
+.text  {
+    display: inline-block;
+}
+
